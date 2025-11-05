@@ -25,7 +25,7 @@ public class Main {
         System.out.println("\nAfter removing ENHYPEN concert:");
         liveNation.removeConcert("ENHYPEN");
 
-        System.out.println("\nAfter removing musicSoul subscriber:");
+        System.out.println("\nAfter removing erkezhankpop31 subscriber:");
         liveNation.removeSubscriber(fan3);
 
         System.out.println("\nAdding new concert:");
