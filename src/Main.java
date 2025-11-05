@@ -10,10 +10,10 @@ public class Main {
 
         System.out.println("\n----------------------");
 
-        FanUser fan1 = new FanUser("niyaFan", "ENHYPEN");
-        FanUser fan2 = new FanUser("jayLover", "BTS");
+        FanUser fan1 = new FanUser("niyavrs", "ENHYPEN");
+        FanUser fan2 = new FanUser("ismailovesBTS1769", "BTS");
         FanUser fan3 = new FanUser();
-        fan3.setNickname("musicSoul");
+        fan3.setNickname("erkezhankpop31");
         fan3.setFavoriteArtist("TXT");
 
         liveNation.addSubscriber(fan1);
